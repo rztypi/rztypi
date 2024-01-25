@@ -1,6 +1,6 @@
 # rztypi
 
-Hi there! I'm Rezz, an aspiring software developer from the Philippines.
+Hi there! I'm Rezz, a software developer from the Philippines.
 
 ### ⚙️ Tech Stack
 
