@@ -1,1 +1,1 @@
-Hi there! I'm Rezz, a software developer from the Philippines.
+Hi there! I'm Rezz, a software engineer from the Philippines.
